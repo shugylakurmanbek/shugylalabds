@@ -1,0 +1,6 @@
+print("Hello, World!")
+name = input("Есіміңіз кім? ")
+print(f"Қош келдіңіз, {name}!")
+number1 = int(input("Бірінші санды енгізіңіз: "))
+number2 = int(input("Екінші санды енгізіңіз: "))
+print(f"Cандардың қосындысы: {number1 + number2}")
